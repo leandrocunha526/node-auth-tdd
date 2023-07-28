@@ -3,3 +3,7 @@ TDD de testes unitários e de integração com as libs Jest, Factory Girl, Faker
 
 ### Para instalar as dependências: yarn install ou npm install
 ### Para rodar os testes: yarn test ou npm run test
+
+## Informação
+
+Projeto usado para estudos em testes automatizados.
